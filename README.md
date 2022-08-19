@@ -7,7 +7,7 @@ One Thing we can see from the charts below is that the average temperatures for 
 
 ![june_temps_sum_stats](https://github.com/lrngdtascinc/Surf_Ice-Challenge/blob/f6c4c26696f0580a12810105a50d86e85cae7181/june_temps_sum_stats.png)
 
-![dec_temps_sum_stats](./Challenge_Resources/dec_temps_sum_stats.png)
+![dec_temps_sum_stats](https://github.com/lrngdtascinc/Surf_Ice-Challenge/blob/028c691ec3dcd9ff644595bc437710b69ce00d2e/dec_temps_sum_stats.png)
 
 ## Wrapping it Up
 Overall a business offering these two services would be pretty profitable in an area like Oahu because of the temperature and the synergy between the services being provided. You can go out on a hot day and surf some waves, and when you're done, you can return to the same place to get some refreshing ice cream.
